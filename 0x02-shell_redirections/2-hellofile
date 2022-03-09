@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cat /etc/pass:d
+=======
+cat/etc/passwd
+>>>>>>> me
